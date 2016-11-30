@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Washington DC Tour Guide</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Categories -->
+    <string name="category_section_1">Hotels</string>
+    <string name="category_section_2">Food Trucks</string>
+    <string name="category_section_3">Museums</string>
+    <string name="category_section_4">Monuments</string>
+
+    <!-- Hotels Fragment-->
+    <string name="morrison_hotel">Morrison Clark Hotel</string>
+    <string name="morrison_address">1011 L St NW, \n Washington, DC 20001</string>
+    <string name="morrison_contact">(202) 898-1200</string>
+
+    <string name="hyatt_hotel">Grand Hyatt Washington</string>
+    <string name="hyatt_address">1000 H St NW, \n Washington, DC 20001</string>
+    <string name="hyatt_contact">(202) 582-1234</string>
+
+    <string name="hilton_hotel">Hilton Washington</string>
+    <string name="hilton_address">1919 Connecticut Avenue NW, \n Washington, DC 20009</string>
+    <string name="hilton_contact">(202) 483-3000</string>
+
+    <string name="sofitel_hotel">Sofitel Washington DC</string>
+    <string name="sofitel_address">806 15th Street NW, \n Washington, DC 20005</string>
+    <string name="sofitel_contact">(202) 730-8800</string>
+
+    <string name="mandarin_hotel">Mandarin Oriental</string>
+    <string name="mandarin_address">1330 Maryland Ave NW, \n Washington, DC 20024</string>
+    <string name="mandarin_contact">(202) 554-8588</string>
+
+    <!-- Food Trucks Fragment-->
+    <string name="arepa_truck">Arepa Zone</string>
+    <string name="arepa_address">1309 5th St NE, \n Washington, DC 20002</string>
+    <string name="arepa_contact">(204) 204-0410</string>
+
+    <string name="crepes_truck">Holy Crepes</string>
+    <string name="crepes_address">15739 Shady Grove Rd, \n Gaithersburg, MD 20877</string>
+    <string name="crepes_contact">(204) 204-0410</string>
+
+    <string name="donuts_truck">Mama Donut Bites</string>
+    <string name="donuts_address">1307 4th St NE, \n Washington, DC 20002</string>
+    <string name="donuts_contact">(703) 608-7056</string>
+
+    <string name="rito_truck">Rito Loco</string>
+    <string name="rito_address">606 Florida Ave NW, \n Washington, DC 20002</string>
+    <string name="rito_contact">(202) 836-4270</string>
+
+    <string name="fish_truck">Go Fish</string>
+    <string name="fish_address">1717 Tilton Dr, \n Silver Spring, MD 20902</string>
+    <string name="fish_contact">(240) 277-8970</string>
+
+    <!-- Museums Fragment-->
+    <string name="african_american_museum">National Museum of African American History and Culture</string>
+    <string name="african_american_address">1400 Constitution Ave NW, \n Washington, DC 20560</string>
+    <string name="african_american_contact">(202) 633-4751</string>
+
+    <string name="american_museum">National Museum of American History</string>
+    <string name="american_address">4th St and Constitution Ave, \n Washington, DC 20001</string>
+    <string name="american_contact">(202) 567-4001</string>
+
+    <string name="nasa_museum">National Air and Space Museum</string>
+    <string name="nasa_address">600 Independence Ave SW, \n Washington, DC 20560</string>
+    <string name="nasa_contact">(202) 633-2214</string>
+
+    <string name="natural_museum">National Museum of Natural History</string>
+    <string name="natural_address">610th St. Constitution Ave, \n Washington, DC 20560</string>
+    <string name="natural_contact">(202) 633-1000</string>
+
+    <string name="gallery_museum">National Portrait Gallery</string>
+    <string name="gallery_address">8th St NW F St NW, \n Washington, DC 20560</string>
+    <string name="gallery_contact">(202) 508-1900</string>
+
+    <!-- Monuments Fragment-->
+    <string name="white_house_monument">White House</string>
+    <string name="white_house_address">1600 Pennsylvania Ave NW, \n Washington, DC 20500</string>
+    <string name="white_house_contact">(202) 200-1000</string>
+
+    <string name="lincoln_memorial_monument">Lincoln Memorial</string>
+    <string name="lincoln_memorial_address">2 Lincoln Memorial Cir NW, \n Washington, DC 20037</string>
+    <string name="lincoln_memorial_contact">(202) 456-9000</string>
+
+    <string name="arlington_monument">Arlington National Cemetery</string>
+    <string name="arlington_address">Arlington, VA 22211</string>
+    <string name="arlington_contact">(877) 907-8585</string>
+
+    <string name="scotus_monument">Supreme Court of the United States</string>
+    <string name="scotus_address">1 First St NE, \n Washington, DC 20543</string>
+    <string name="scotus_contact">(202) 307-2222</string>
+
+    <string name="capitol_monument">Capitol Hill</string>
+    <string name="capitol_address">First Street Southeast, \n Washington, DC 20510</string>
+    <string name="capitol_contact">(202) 532-1123</string>
+
+</resources>
