@@ -65,9 +65,9 @@ public class MainActivity extends AppCompatActivity {
                 case 1:
                     return TrucksFragment.newInstance();
                 case 2:
-                    return MonumentsFragment.newInstance();
-                case 3:
                     return MuseumsFragment.newInstance();
+                case 3:
+                    return MonumentsFragment.newInstance();
             }
             return null;
         }
@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
                     return getString(R.string.category_section_2).toUpperCase();
                 case 2:
                     return getString(R.string.category_section_3).toUpperCase();
-                case 4:
+                case 3:
                     return getString(R.string.category_section_4).toUpperCase();
             }
             return null;

@@ -4,13 +4,13 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF1744</color>
 
-    <color name="categoryHotels">#004D40</color>
-    <color name="categoryFoodTrucks">#004D40</color>
-    <color name="categoryMuseums">#004D40</color>
-    <color name="categoryMonuments">#004D40</color>
+    <color name="categoryHotels">#FCFDFF</color>
+    <color name="categoryFoodTrucks">#FCFDFF</color>
+    <color name="categoryMuseums">#FCFDFF</color>
+    <color name="categoryMonuments">#FCFDFF</color>
 
-    <color name="imageBackground">#4A148C</color>
+    <color name="imageBackground">#000000</color>
 
-    <color name="textHeaderColor">#01579B</color>
-    <color name="textDetailColor">#607D8B</color>
+    <color name="textHeaderColor">#004D40</color>
+    <color name="textDetailColor">#004D40</color>
 </resources>

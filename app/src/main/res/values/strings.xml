@@ -6,7 +6,7 @@
     <string name="category_section_1">Hotels</string>
     <string name="category_section_2">Food Trucks</string>
     <string name="category_section_3">Museums</string>
-    <string name="category_section_4">Monuments</string>
+    <string name="category_section_4">Sites</string>
 
     <!-- Hotels Fragment-->
     <string name="morrison_hotel">Morrison Clark Hotel</string>
@@ -51,23 +51,23 @@
     <string name="fish_contact">(240) 277-8970</string>
 
     <!-- Museums Fragment-->
-    <string name="african_american_museum">National Museum of African American History and Culture</string>
+    <string name="african_american_museum">African American History</string>
     <string name="african_american_address">1400 Constitution Ave NW, \n Washington, DC 20560</string>
     <string name="african_american_contact">(202) 633-4751</string>
 
-    <string name="american_museum">National Museum of American History</string>
+    <string name="american_museum">American History</string>
     <string name="american_address">4th St and Constitution Ave, \n Washington, DC 20001</string>
     <string name="american_contact">(202) 567-4001</string>
 
-    <string name="nasa_museum">National Air and Space Museum</string>
+    <string name="nasa_museum">Air and Space Museum</string>
     <string name="nasa_address">600 Independence Ave SW, \n Washington, DC 20560</string>
     <string name="nasa_contact">(202) 633-2214</string>
 
-    <string name="natural_museum">National Museum of Natural History</string>
+    <string name="natural_museum">Natural History</string>
     <string name="natural_address">610th St. Constitution Ave, \n Washington, DC 20560</string>
     <string name="natural_contact">(202) 633-1000</string>
 
-    <string name="gallery_museum">National Portrait Gallery</string>
+    <string name="gallery_museum">Portrait Gallery</string>
     <string name="gallery_address">8th St NW F St NW, \n Washington, DC 20560</string>
     <string name="gallery_contact">(202) 508-1900</string>
 
@@ -84,7 +84,7 @@
     <string name="arlington_address">Arlington, VA 22211</string>
     <string name="arlington_contact">(877) 907-8585</string>
 
-    <string name="scotus_monument">Supreme Court of the United States</string>
+    <string name="scotus_monument">Supreme Court</string>
     <string name="scotus_address">1 First St NE, \n Washington, DC 20543</string>
     <string name="scotus_contact">(202) 307-2222</string>
 
